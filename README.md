@@ -7,7 +7,7 @@
 
 An enterprise-grade Retrieval-Augmented Generation (RAG) system for querying door specifications, construction documentation, and architectural details from PDF documents. Built with modern AI technologies and featuring a Navy Blue & White themed interface with VTX branding.
 
-![Door RAG System](https://github.com/DefoxxAnalytics/Doors-RAG/assets/placeholder/banner.png)
+![Door RAG System](assets/placeholder/banner.png)
 
 ## 🌟 Features
 
